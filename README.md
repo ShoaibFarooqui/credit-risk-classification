@@ -1,2 +1,2 @@
-# credit-risk-classification
+# Credit Risk Classification using Supervised Machine Learning
 Demonstration of Supervised Machine Learning techniques in identifying fradulant transaction. Module imports include sklearn for preprosessing, modeling, and classification reporting.
